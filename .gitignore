@@ -5,7 +5,7 @@ __pycache__/
 mreco
 # C extensions
 *.so
-movies.pkl
+
 similarity_metrix.pkl
 
 
